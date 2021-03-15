@@ -6,7 +6,7 @@
     "remote_port": 80,
     "serverAddress": "0.0.0.0",
     "serverPort": 8388,
-    "password": "shadowsocks-over-websocket",
+    "password": "123456",
     "timeout": 600,
     "method": "aes-256-cfb"
 }
